@@ -17,7 +17,7 @@ from telegram.ext import (
 # RA FİYAT BOTU
 # =========================
 
-TOKEN = os.getenv("8611379382:AAFkkkEe17smKZ5XFqC0FMzK-_nwNrlS70g")
+TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 
 BINANCE_API = "https://api.binance.com/api/v3"
 
